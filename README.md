@@ -1,27 +1,39 @@
 ### 👋 Vitor Vareiro
 
-Marketing graduate from Portugal building a career in infrastructure and IT.
+Game developer from Portugal. Building with Godot and C#.
 
 ```yaml
-location: Quarteira, Algarve
-focus: Linux, Docker, PostgreSQL, Automation
-status: Seeking IT support / NOC / help desk roles
-cert: freeCodeCamp Relational Database v8
+location: Quarteira, Algarve 🇵🇹
+engine: Godot 4 / C#
+also: Linux, Docker, PostgreSQL, AI automation
+background: Marketing degree, electrician by trade, programmer by obsession
 ```
 
 ---
 
-**What I'm building**
+**🎮 Games**
 
-- **[homelab](https://github.com/lel1guy/homelab)** — Fedora server with Docker Compose stacks (n8n, Honcho AI, Open Notebook), PostgreSQL 18, and Tailscale mesh VPN across 3 devices. Full architecture documented.
-- **[hermes-homelab](https://github.com/lel1guy/hermes-homelab)** — AI agent deployment with 21 automated cron pipelines handling Discord ops, knowledge management, and system monitoring.
-- **[LastBastion](https://github.com/lel1guy/LastBastion)** — Complete Android idle game built with Godot 4 / GDScript.
+| Project | Engine | Status |
+|---------|--------|--------|
+| **[LastBastionCS](https://github.com/lel1guy/LastBastionCS)** — Action/tower defense | Godot 4 · C# | 🔨 Active |
+| **[FootPong](https://github.com/lel1guy/FootPong)** — Arcade football × Pong hybrid | Godot 4 · GDScript | ✅ Playable |
 
-**Currently**
+**🖥️ Infrastructure**
 
-Working through the freeCodeCamp Python certification. Building Karasu, an AI agent for my personal knowledge vault.
+- **[homelab](https://github.com/lel1guy/homelab)** — Fedora server, Docker stacks, PostgreSQL, Tailscale VPN across 3 devices
+- **[hermes-homelab](https://github.com/lel1guy/hermes-homelab)** — AI agent with 21 automated cron pipelines
 
-**Links**
+**🗄️ Databases**
+
+FreeCodeCamp Relational Database certification — 5 PostgreSQL projects with real data and analytical queries.
+
+---
+
+**🛠️ Stack**
+
+`Godot` `C#` `GDScript` `Linux` `Docker` `PostgreSQL` `Python` `Bash` `Tailscale` `Git`
+
+---
 
 [LinkedIn](https://linkedin.com/in/vvareiro) · [FreeCodeCamp](https://www.freecodecamp.org/certification/vvareiro/relational-database-v8)
 
