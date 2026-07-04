@@ -15,7 +15,7 @@ background: Marketing degree, electrician by trade, programmer by obsession
 
 | Project | Engine | Status |
 |---------|--------|--------|
-| **[LastBastionCS](https://github.com/lel1guy/LastBastionCS)** — Action/tower defense | Godot 4 · C# | 🔨 Active |
+| **[KeroKeep](https://github.com/lel1guy/KeroKeep)** — Action/tower defense | Godot 4 · C# | 🔨 Active |
 | **[FootPong](https://github.com/lel1guy/FootPong)** — Arcade football × Pong hybrid | Godot 4 · GDScript | ✅ Playable |
 
 **🖥️ Infrastructure**
