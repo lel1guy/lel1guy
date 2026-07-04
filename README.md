@@ -1,40 +1,55 @@
-### 👋 Vitor Vareiro
+<p align="center">
+  <img src="https://img.shields.io/badge/Game_Dev-Godot_4-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lang-C%23-512bd4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-Game developer from Portugal. Building with Godot and C#.
+> 🐸 **KeroKeep** — Idle siege defense in Godot 4 + C#. Currently rewriting from GDScript to C#.
 
-```yaml
-location: Quarteira, Algarve 🇵🇹
-engine: Godot 4 / C#
-also: Linux, Docker, PostgreSQL, AI automation
-background: Marketing degree, electrician by trade, programmer by obsession
+---
+
+### Currently Building
+
+**[KeroKeep](https://github.com/lel1guy/KeroKeep)** — defend the frog kingdom of Batrachia
+
+```
+Genre: Idle Siege Defense   Engine: Godot 4   Language: C#
 ```
 
 ---
 
-**🎮 Games**
+### Toolbox
 
-| Project | Engine | Status |
-|---------|--------|--------|
-| **[KeroKeep](https://github.com/lel1guy/KeroKeep)** — Action/tower defense | Godot 4 · C# | 🔨 Active |
-| **[FootPong](https://github.com/lel1guy/FootPong)** — Arcade football × Pong hybrid | Godot 4 · GDScript | ✅ Playable |
-
-**🖥️ Infrastructure**
-
-- **[homelab](https://github.com/lel1guy/homelab)** — Fedora server, Docker stacks, PostgreSQL, Tailscale VPN across 3 devices
-- **[hermes-homelab](https://github.com/lel1guy/hermes-homelab)** — AI agent with 21 automated cron pipelines
-
-**🗄️ Databases**
-
-FreeCodeCamp Relational Database certification — 5 PostgreSQL projects with real data and analytical queries.
+```
+Engine     Godot 4 · Unity (familiar)
+Languages  C# · Python
+Tooling    Git · Docker · Neovim
+Infra      Self-hosted homelab (Fedora, PostgreSQL, Tailscale)
+Automation Hermes Agent · Discord bots
+```
 
 ---
 
-**🛠️ Stack**
+### Projects
 
-`Godot` `C#` `GDScript` `Linux` `Docker` `PostgreSQL` `Python` `Bash` `Tailscale` `Git`
+| Project | What | Stack |
+|---------|------|-------|
+| [KeroKeep](https://github.com/lel1guy/KeroKeep) | Idle siege defense | Godot 4 · C# |
+| [Homelab](https://github.com/lel1guy/homelab) | Infrastructure configs | Docker · Linux |
 
 ---
 
-[LinkedIn](https://linkedin.com/in/vvareiro) · [FreeCodeCamp](https://www.freecodecamp.org/certification/vvareiro/relational-database-v8)
+### Principles
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=lel1guy&theme=github-dark-dimmed&hide_border=true)
+- **Open-source first** — every project ships with the hood open
+- **Show, don't tell** — gameplay over resumes
+- **Build what I'd play** — no filler projects, no tutorial clones
+- **Ship incrementally** — working builds over perfect plans
+
+---
+
+### Links
+
+- GitHub: [@lel1guy](https://github.com/lel1guy)
+- Itch.io: *coming soon*
+- Open to Godot / C# collaboration
