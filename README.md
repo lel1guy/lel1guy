@@ -22,7 +22,7 @@ Genre: Idle Siege Defense   Engine: Godot 4   Language: C#
 ```
 Engine     Godot 4 · Unity (familiar)
 Languages  C# · Python
-Tooling    Git · Docker · Neovim
+Tooling    Git · Docker
 Infra      Self-hosted homelab (Fedora, PostgreSQL, Tailscale)
 Automation Hermes Agent · Discord bots
 ```
