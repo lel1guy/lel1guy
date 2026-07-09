@@ -42,5 +42,5 @@ Automation Hermes Agent · Discord bots
 ### Links
 
 - GitHub: [@lel1guy](https://github.com/lel1guy)
-- Itch.io: *coming soon*
+- Itch.io: [Profile](https://lel1guy.itch.io)
 - Open to Godot / C# collaboration
