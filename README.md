@@ -35,7 +35,7 @@ Automation Hermes Agent · Discord bots
 |---------|------|-------|
 | [KeroKeep](https://github.com/lel1guy/KeroKeep) | Idle siege defense | Godot 4 · C# |
 | [Homelab](https://github.com/lel1guy/homelab) | Infrastructure configs | Docker · Linux |
-| [FootPong](https://github.com/lel1guy/FootPong) | FootBall Pong Clone | Godot 4. GDScrip |
+| [FootPong](https://github.com/lel1guy/FootPong) | FootBall Pong Clone | Godot 4, GDScript |
 
 ---
 
